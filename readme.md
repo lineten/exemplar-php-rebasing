@@ -12,3 +12,7 @@ _Comparison of rebasing and merging_
 
 [https://slides.com/paul_melero/git-rebase#/21/0/0](https://slides.com/paul_melero/git-rebase#/21/0/0)
 
+# Goals
+
+In each of the branches you will find an edited readme with instrcutions for the rebase task, pleae complete these steps and open a PR back to the trunk
+
