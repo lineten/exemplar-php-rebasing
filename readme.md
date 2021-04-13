@@ -16,3 +16,5 @@ _Comparison of rebasing and merging_
 
 In each of the branches you will find an edited readme with instrcutions for the rebase task, pleae complete these steps and open a PR back to the trunk
 
+# squashing commits
+This branch contains a number of commits that are very noisy, while useful during development, no value is offered by presering all these when merging back to the trunk branch therefore all of these commits should be combined into a single commit before submitting a PR
