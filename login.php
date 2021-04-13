@@ -2,4 +2,4 @@
 
 $username="user"
 
-echo "Hello ".$username;
+echo "Welcome ".$username;
