@@ -14,7 +14,7 @@ _Comparison of rebasing and merging_
 
 # Now complete the exercises below
 
-> Dont be afraid to ask your line manager or a colleague for help completing this exercises
+> Don't be afraid to ask your line manager or a colleague for help completing these exercises
 
 
 # EXERCISE 1
@@ -23,11 +23,11 @@ _Comparison of rebasing and merging_
 
 You should end up with a single consolidated readme file - this will generate conflicts that need will resolving! 
 
-In each of the branches you will find an edited readme with instructions for the rebase task, complete each task using `rebase` then `merge` these updated changes back to the trunk. Once complete submit a pull request to this repository and assign to your line manager for review!
+In each of the branches you will find an edited readme with instructions for the rebase task. Complete each task using `rebase`, then `merge` these updated changes back to the trunk. Once complete submit a pull request to this repository and assign to your line manager for review!
 
 ## Instructions
 
-Fork this repository to your personal GitHub account, this will copy all branchs for you to work on locally, then complete the two tasks using the `rebase` command (see readme on each branch for details). When complete you should `merge` the TASK-X branches to the trunk branch. 
+Fork this repository to your personal GitHub account, this will copy all branches for you to work on locally, then complete the two tasks using the `rebase` command (see readme on each branch for details). When complete you should `merge` the TASK-X branches to the trunk branch. 
 
 At the outset the branch tree looks like this:
 
